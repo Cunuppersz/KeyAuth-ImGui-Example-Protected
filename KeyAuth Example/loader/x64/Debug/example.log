@@ -1,0 +1,8 @@
+﻿  ****  Online  ****
+    000000  ...
+    195920
+  CertUtil: -URLCache command completed successfully.
+  main.cpp
+D:\GitHub\ilegproj\4(4)\keyauth imgui\KeyAuth ImGui Example Protected\KeyAuth Example\packet.hpp(3,10): error C1083: içerme dosyası açılamıyor: 'defs.hpp': No such file or directory
+  ('main.cpp' kaynak dosyası derleniyor)
+  
